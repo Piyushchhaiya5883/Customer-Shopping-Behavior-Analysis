@@ -5,6 +5,8 @@ This project focuses on analyzing customer shopping behavior to uncover patterns
 
 The goal is to help organizations improve customer targeting, product strategy, and sales performance.
 
+
+
 🎯 Objectives
 
 Understand customer purchasing patterns
@@ -16,6 +18,8 @@ Identify high-value customers
 Discover frequently purchased product categories
 
 Generate insights to support marketing and business strategies
+
+
 
 🗂 Dataset Description
 
@@ -37,6 +41,8 @@ Shopping Frequency
 
 (Dataset used for educational and analytical purposes)
 
+
+
 🛠 Tools & Technologies
 
 Python
@@ -48,6 +54,8 @@ NumPy – numerical analysis
 Matplotlib & Seaborn – data visualization
 
 Jupyter Notebook – analysis environment
+
+
 
 🔍 Analysis Performed
 
@@ -61,6 +69,8 @@ Purchase behavior analysis
 
 Visualization of trends and patterns
 
+
+
 📈 Key Insights
 
 Certain age groups contribute more to overall revenue
@@ -70,6 +80,8 @@ Spending patterns vary significantly by gender and income level
 A small group of customers accounts for a large portion of total sales
 
 Specific product categories dominate customer preferences
+
+
 
 📊 Visualizations
 
@@ -82,6 +94,8 @@ Distribution plots for purchase amounts
 Gender and age-wise comparison charts
 
 Income vs spending visualizations
+
+
 
 🚀 Business Impact
 
