@@ -1,4 +1,5 @@
 📊 Customer Shopping Behavior Analysis
+
 📌 Project Overview
 
 This project focuses on analyzing customer shopping behavior to uncover patterns, preferences, and trends that help businesses make data-driven decisions. By examining customer demographics, purchase history, and spending habits, the analysis provides insights into how customers interact with products and services.
